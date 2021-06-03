@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the better ordering of fishing, vpon the coasts of His Maiesties dominions</title>
+            <title>Proclamations. 1631-05-24</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13041</idno><idno type="EEBO-CITATION">99836835_178643</idno>
+  <idno type="VID">178643</idno>
+  <idno type="EEBO-PROQUEST">2264216991</idno>
+  <idno type="STC">STC 8975</idno>
+  <idno type="STC">ESTC S101009</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99836835e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1686:79 or 1876:135)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the better ordering of fishing, vpon the coasts of His Maiesties dominions</title>
+                  <title>Proclamations. 1631-05-24</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles, I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXXI. [1631]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Greenwich, this foure and twentieth day of May, in the seuenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 13; Steele notation: bestowed mitie, 2) of other.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fishery law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:178643:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation for the better ordering of Fishing, vpon the Coasts of His MAIESTIES Dominions.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Mongst the manifold blessings, Almighty God hath bestowed</hi> vpon Our Kingdomes, and people, the abundance of Fish, vpon all Our Coasts, and in Our Riuers, requireth a most thankefull acknow<g ref="char:EOLhyphen"/>ledgement, being not onely sufficient to nourish Our owne Subiects, but by exportation to supply a great part of the Christian World: And without doubt, if the care and industry of Our people bee equall to Our Neighbours, We may thereby enioy as great aduantage, for Our Nauigation and Trade. But besides the great neglect in gene<g ref="char:EOLhyphen"/>rall to improoue this chiefe Staple Commoditie, the particular disor<g ref="char:EOLhyphen"/>ders and abuses of Fisher-men amongst Vs are growen to such extre<g ref="char:EOLhyphen"/>mitie, that they haue almost destroyed both the Fish, Frie, &amp; Spawne, so as they now want worke, and are not as heretofore the Nurcery of Seamen, but are forced to get their liuings by other Occupations. And the former abundance of Fish is turned into such scarcitie and dearenesse, that the Lawes of Our Church and State for the keeping of Fish dayes are not executed as they ought to be: And both our whole Kingdome, and especially Our Ci<g ref="char:EOLhyphen"/>tie of London, and euen Our owne Court, are many times vnprouided for their necessary dyet. Now considering how this reflecteth vpon Our Gouernment, and the good of Our people, we haue thought fit with the aduice of Our Counsell, to apply that meete and forcible remedy which is already well ordeined by the Lawes &amp; Statutes of this Our Kingdome. And hereby Wee require and command all Our Commissioners for the Admiraltie, Conseruators of Our Riuers, Warden of Our Cinque-Ports, Viceadmirals, and all Our Officers and others, whom it may concerne, respectiuely to cause all the said Lawes and Statutes to be obserued, as well for preseruation of the Fish vpon Our Coasts and in Our Riuers, as for the regulating of Fisher-men in their Trade, in the qualities and sizes of their Nets and Engines, and in the fit times and seasons of Fishing. And whereas for further explanation of the Statutes and Lawes for Fishing, many profitable Orders haue beene set downe, both by the High Court of Our Ad<g ref="char:EOLhyphen"/>miraltie, and by the Conseruators of Our Riuers, and by other Commissioners which by their due execution reformed much abuse; yet since the craft and greedinesse of Fisher-men and others, hath found meanes by new Engines or new names, to frustrate Law and Order; for preuenti<g ref="char:EOLhyphen"/>on thereof hereafter, Wee doe hereby declare, that howsoeuer these Lawes &amp; Orders did specifie the names then in knowne vse, yet both the equitie and true meaning thereof, forbiddeth vnder those names, and by generall words also, all other Nets, Engines and disorders, whereby the Frie and Spawne of Fish may bee destroyed. And therefore where the Nets heretofore called Traules at the first were vsed without inconuenience, yet by the abuse of the Fisher-men a Net of the same name is now vsed, which is notoriously knowne to destroy the said Frie, &amp; Spawne:
+<pb facs="tcp:178643:2"/>
+               <pb facs="tcp:178643:2"/>And therefore the same is both forbidden by the Law, and Wee doe hereby prohibite the vse of them and of all other Nets, howsoeuer they are or shall bee called, that haue not their Meshes sized according to the said Lawes and Orders, or by which the Fish of any kind with the Frie and Spawne may be destroyed: And further, whereas it is reasonably conceiued that the de<g ref="char:EOLhyphen"/>struction of Fish hath proceeded not so much from defect of Law and Order, as from want of due execution which is the life of Our Lawes, and that this neglect is chiefely growen from the Differences and Contestations raised amongst Our Officers &amp; Conseruators about their Rights and Iurisdictions: Wee preferring the publique benefit of Our Subiects before their priuate Interests and Questions, doe ordaine that all Rights, Titles, Powers and Iurisdictions be<g ref="char:EOLhyphen"/>longing to Our Admiraltie, or to the Conseruators of Our Riuers or other Our Officers shall be respectiuely reserued without preiudice or impeachment, and neuerthelesse doe hereby charge and command them and euery of them that haue any trust from Vs in Our said Admiraltie or Conseruation of Our Riuers, hereafter concurrently and seuerally to doe their best indeauors (according to the said trust committed to them) that Our said Lawes and Ordinances may bee put in due and strict execution both against Subiects and Strangers, and to take Cognisance of such Presentments as shall bee made in their Courts or otherwise, and to punish all offenders ac<g ref="char:EOLhyphen"/>cording to the said Lawes and Orders without fauour or partialitie, Prouiding neuerthelesse that no Offendor, presented and legally questioned in one Court, or before one such Officer or Con<g ref="char:EOLhyphen"/>seruator, shall for the same offence be againe prosecuted and punished by any other. And further for preuention of Oppression, Molestation and discouragement that Fisher-men may suffer by the varietie of Iurisdictions and Officers to whom this Power is giuen onely for the preserua<g ref="char:EOLhyphen"/>tion and furtherance of Lawfull Fishing. And that no Malefactor may escape the iust censure of Our Lawes, Wee doe hereby require and strictly charge, as well the Commissioners and o<g ref="char:EOLhyphen"/>thers Officers of Our Admiraltie, as also the Conseruators of all Our Riuers, and all other ministers that exercise in this regard any Authoritie vnder Vs, that they neither require, nor take, nor suffer to be demanded or taken by their Marshall, Water-Bailiffs, or other Ministers, or by any other person for themselues or any other, any fees, rewards, gratuities, payments or allowances in money, Fish, or otherwise from any Fisherman of what qualitie soeuer, other then the due penalties which by the said Lawes and Orders are imposed and allowed.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Greenwich, </hi>
+                  <date>
+                     <hi>This foure and Twentieth day of May, in the seuenth yeere of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent MAIESTIE: and by the Assignes of Iohn Bill. M.DC.XXXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
